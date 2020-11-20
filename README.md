@@ -1,17 +1,50 @@
 ### Hi, I'm Aatish Kunal👋
-I am currently working as Cyber Security Analyst at KPMG India
+I am Cyber Security Analyst at KPMG India based in Noida.
 
 # About Me
 
 🤔   Exploring new technologies and solving complex problems.
 
-💼   I'm currently working full-time with KPMG India as GSOC Analyst
+💼   I'm currently working full time at KPMG India as a Cyber Security Analyst/
 
-🌱   My role of working is on Products - Azure Sentinel, MDATP, AIP, MCAS, O365
+💼   My role of work is around Microsoft Security Products, Cloud Security and Migration, Creation and Fine Tuning of Parsers, Automation.
 
-✍️   Pursuing varrious courses on Artificial Intelligence with aim to build a AI-Cybersecurity use-case.
+✍️   Pursuing various courses on Artificial Intelligence in off-time with aim to build a AI-Cybersecurity use-case.
+
+🏆   I'm an avid improver. Continuously learning how to make the world better.I'm an avid improver. Continuously learning how to make the world better.
+
+
 
 # Tech Stack
-💻    Python | SQL | KQL
 
-🌐   Linux | Azure Sentinel | Threat Hunting | Co-relation rules
+✔️   SIEM - Azure Sentinel | RSA Netwitness | RSA SA
+
+💻   Microsoft Products - Azure Sentinel, Azure AD, Azure ATP, MDATP, AIP, MCAS, O365 
+
+💻   Python | SQL | KQL
+
+🔧   Tools - Wireshark
+
+🌐   Linux  | Threat Hunting | Creation of parsers for Co-relation and Detection rules | ITIL Process 
+
+🛢    Python Libraries - Numpy | Pandas | Matplotlib | Keras
+
+🌱   Deep Learning Algorithms - ANN | CNN | RNN | LSTM | Backpropagation | GAN
+
+💻   SOAR - DEMISTO
+
+
+# Certifications
+
+✔️ CEH (Certified Ethical Hacker)
+
+✔️ Microsoft Certified Azure Security Engineer Associate(AZ-500)
+
+✔️ CNSS Certified Network Security Specialist 
+
+✔️ Palo Alto Certified Cortex XSOAR Engineer
+
+✔️ Python(Intermediate) Certificate from HackerRank
+
+
+
