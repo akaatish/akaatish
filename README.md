@@ -5,14 +5,13 @@ I am Cyber Security Analyst at KPMG India based in Noida.
 
 🤔   Exploring new technologies and solving complex problems.
 
-💼   I'm currently working full time at KPMG India as a Cyber Security Analyst/
+💼   I'm currently working full time at KPMG India as a Cyber Security Analyst
 
 💼   My role of work is around Microsoft Security Products, Cloud Security and Migration, Creation and Fine Tuning of Parsers, Automation.
 
 ✍️   Pursuing various courses on Artificial Intelligence in off-time with aim to build a AI-Cybersecurity use-case.
 
-🏆   I'm an avid improver. Continuously learning how to make the world better.I'm an avid improver. Continuously learning how to make the world better.
-
+🏆   I'm an avid improver. Continuously learning how to make the world better.
 
 
 # Tech Stack
