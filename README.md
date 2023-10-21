@@ -26,7 +26,7 @@ I am currently working as Associate Manager - Cybersecurity(Product,Technology &
 
 # Certifications
 
-✔️ Generative AI with Large Lanhuage Models
+✔️ Generative AI with Large Language Models
 
 ✔️ Palo Alto Certified Cortex XSOAR Engineer
 
