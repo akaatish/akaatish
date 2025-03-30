@@ -1,9 +1,9 @@
 ### Hi, I'm Aatish Kunal👋
-I am currently working as Associate Manager - Cybersecurity(Product,Technology & Automation) @ Adani Enterprise Limited.
+I am currently working as Cyber Security Engineer(Technology, Data & Automation) @ Deutsche Bank
 
 # About Me
 
-💼   Leading Cyber Security Automation @ Adani Enterprise Limted.
+💼   Leading Cyber Security Devsecops @ Deutsche Bank
 
 ✍️   Pursuing various courses on Artificial Intelligence in off-time with aim to build a AI-Cybersecurity use-case.
 
