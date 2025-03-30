@@ -14,6 +14,9 @@ I am currently working as Cyber Security Engineer(Technology, Data & Automation)
 
 # Tech Stack
 
+
+✔️   Devsecops - Terraform
+
 ✔️   Cyber Automation - Cortex XSOAR, Automation Anywhere, Azure Logic Apps
 
 💻   Microsoft Products - Azure Sentinel, Microsoft Defender, MDATP, AIP, MCAS, O365 
@@ -25,6 +28,10 @@ I am currently working as Cyber Security Engineer(Technology, Data & Automation)
 🌱   Deep Learning Algorithms - ANN | CNN | RNN | LSTM | Backpropagation | GAN
 
 # Certifications
+
+✔️ Generative AI for Software Development
+
+✔️ HashiCorp Certified: Terraform Associate (003)
 
 ✔️ Generative AI with Large Language Models
 
